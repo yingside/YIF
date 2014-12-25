@@ -1,0 +1,4 @@
+YIF
+===
+
+a test script
